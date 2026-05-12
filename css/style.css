@@ -10,8 +10,8 @@ html {
 
 body {
   font-family: "Noto Sans KR", "Pretendard", Arial, sans-serif;
-  background: #f8fafc;
-  color: #1e293b;
+  background: #d5edff;
+  color: #000000;
   line-height: 1.7;
 }
 
@@ -47,7 +47,7 @@ header {
 .logo {
   font-size: 24px;
   font-weight: 900;
-  color: #0e7490;
+  color: #496bf4;
   letter-spacing: -0.04em;
 }
 
@@ -67,8 +67,8 @@ header {
 .hero {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #0e7490, #1e3a8a);
-  color: white;
+  background: linear-gradient(135deg, #a9a9a9, #3c3c3c);
+  color: white; 
 }
 
 .hero::before {
