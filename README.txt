@@ -7,7 +7,7 @@
 - activity.html : 학습 및 활동이력 페이지
 - projects.html : 프로젝트 목록 페이지
 - contact.html : 연락처 페이지
-- projects/project1.html : 프로젝트 상세 페이지 1
+- projects/project1.html : 프로젝트 상세 페이지 1   
 - projects/project2.html : 프로젝트 상세 페이지 2
 - projects/project3.html : 프로젝트 상세 페이지 3
 - css/style.css : 전체 디자인 스타일
